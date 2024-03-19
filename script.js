@@ -44,18 +44,18 @@ function onDragStart(event) {
   
   function checkSequence() {
     const correctSequence = [
-        "Acesse o BIOS/UEFI",
-        "Formate o disco",
-        "Siga as instruções de instalação",
-        "Instale drivers e software adicionais",
         "Faça backup de seus dados importantes",
-        "Realize testes",
-        "Instale o sistema operacional",
-        "Atualize o sistema operacional e os drivers",
-        "Prepare uma mídia de instalação do sistema operacional”)",
-        "Inicie o computador a partir da mídia de instalação",
-        "Restaure os dados de backup",
+        "Prepare uma mídia de instalação do sistema operacional",
+        "Acesse o BIOS/UEFI",
         "Configure a ordem de inicialização",
+        "Inicie o computador a partir da mídia de instalação",
+        "Siga as instruções de instalação",
+        "Formate o disco",
+        "Instale o sistema operacional",
+        "Instale drivers e software adicionais",
+        "Restaure os dados de backup",
+        "Atualize o sistema operacional e os drivers",
+        "Realize testes",
         "Sucesso na instalação!!!"
     ];
 
