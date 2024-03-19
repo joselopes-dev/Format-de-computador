@@ -44,6 +44,7 @@ function onDragStart(event) {
   
   function checkSequence() {
     const correctSequence = [
+        "Etapas",
         "Faça backup de seus dados importantes",
         "Prepare uma mídia de instalação do sistema operacional",
         "Acesse o BIOS/UEFI",
