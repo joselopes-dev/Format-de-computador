@@ -55,7 +55,8 @@ function onDragStart(event) {
         "Prepare uma mídia de instalação do sistema operacional”)",
         "Inicie o computador a partir da mídia de instalação",
         "Restaure os dados de backup",
-        "Configure a ordem de inicialização"
+        "Configure a ordem de inicialização",
+        "Sucesso na instalação!!!"
     ];
 
     const items = document.querySelectorAll('.kanban .item');
